@@ -48,9 +48,6 @@ Welcome to **NoahLab**! I focus on developing clean, efficient, and reliable scr
 
 ---
 
-<div align="center">
-  <small>© NoahLab — Crafted with care for power users.</small>
-</div>
 
 <!--
 **Itzchxion/Itzchxion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
