@@ -39,15 +39,6 @@ Welcome to **NoahLab**! I focus on developing clean, efficient, and reliable scr
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Itzchxion&show_icons=true&theme=dark&hide_border=true" alt="Itzchxion's GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itzchxion&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 <div align="center">
   <small>© NoahLab — Crafted with care for power users.</small>
 </div>
